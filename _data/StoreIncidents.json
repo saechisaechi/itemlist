@@ -37,7 +37,7 @@
 	},
 	{
 		"abr": "drythunderstorm",
-		"price": 450,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 30000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 30000,
 		"karmatype": "Doom"
 	},
 	{
@@ -111,13 +111,13 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "resourcepodcrash",
-		"price": 300,
+		"abr": "wandererjoins",
+		"price": 50,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
+		"abr": "resourcepodcrash",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -257,7 +257,7 @@
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -357,7 +357,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -401,6 +401,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "use",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -436,5 +441,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 88
 }
